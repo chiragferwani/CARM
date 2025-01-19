@@ -1,5 +1,9 @@
 # **CARM App**  
-### *Customer Analysis and Review Management Simplified*
+### *Company Analysis and Review Management Simplified*
+
+![carm1](https://github.com/user-attachments/assets/f6ec7c33-bfd8-4506-9b41-ff89ea97181e)
+
+![carm2](https://github.com/user-attachments/assets/ec36d4d8-87fe-43b5-9d79-563837c1c7ff)
 
 ---
 
